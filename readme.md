@@ -1,0 +1,4 @@
+# PENGERTIAN
+Linear search atau sequential search merupakan sebuah algoritma untuk pencarian sebuah data dari himpunan data.
+# CARA KERJA PROGRAM
+Cara kerja  dari  algoritma ini  adalah data yang  ada  dibandingkan satu  per  satu secaraberurutan dengan yang dicari sampai data tersebut ditemukan atau tidak ditemukan. Atau bisa dibilangbahwa Linear Search ini merupakan sebuah teknik pencarian data dengan menelusuri semua data satu persatu. Apabila ditemukan kecocokan data maka program akan mengembalikan output, jika tidak pencarianakan terus berlanjut hingga  akhir dari array tersebut.  Algoritma ini tidak cocok untuk set  data denganjumlah besar karena kompleksitas dari algorithma ini adalah Ο(n) di mana n adalah jumlah item. Jika datayang dicari berada  pada paling akhir dari array, maka program harus  menelusuri  semua array  terlebih dahulu.
